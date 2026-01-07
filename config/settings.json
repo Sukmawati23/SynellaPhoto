@@ -1,0 +1,20 @@
+{
+  "app_name": "SynellaPhoto",
+  "countdown": 3,
+  "photo_save_path": "media/photos/",
+  "video_save_path": "media/videos/",
+  "camera_index": 0,
+
+  "theme": {
+    "bg_color": "#FFF0F6",
+    "button_color": "#FF8CC6",
+    "text_color": "#6B2D5C",
+    "font": "Comic Sans MS"
+  },
+
+  "moods": {
+    "Cute": { "bg": "#FFF0F6", "text": "💖 Mode Cute Aktif!" },
+    "Cool": { "bg": "#E6F0FF", "text": "😎 Mode Cool Aktif!" },
+    "Funny": { "bg": "#FFF8E1", "text": "🤣 Mode Funny Aktif!" }
+  }
+}

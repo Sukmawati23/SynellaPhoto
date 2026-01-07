@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+media/photos/
+media/videos/
+.env
